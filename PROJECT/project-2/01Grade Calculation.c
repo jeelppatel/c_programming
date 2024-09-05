@@ -3,12 +3,12 @@
 
 
 main() {
-    int score;
+    float score;
     char grade;
 
   
     printf("Enter your score: ");
-    scanf("%d", &score);
+    scanf("%f", &score);
 
   
     grade = (score >= 90 && score <=100) ? 'A' :
