@@ -60,7 +60,7 @@
 
 17 What is the next number in the sequence: 1, 4, 9, 16, 25, ?
 (a) 30 (b) 35 (c) 36 (d) 40
-# ans(b)
+# ans(c)
 
 18 What comes next in the sequence: 2, 5, 10, 17, ?
 (a) 24 (b) 26 (c) 30 (d) 34
