@@ -4,7 +4,7 @@
 
 2 Who developed the C programming language?
 (A) Dennis Ritchie (B) Bjarne Stroustrup (C) James Gosling (D) Ken Thompson
-# Ans (C)
+# Ans (A)
 
 3 Which of the following is NOT a basic data type in C?
 (A) int (B) float (C) string (D) char
@@ -77,7 +77,7 @@ for (int i = 1; i <= 3; i++) {
 
 16 What is the return type of a function that does not return a value?
 (A) int (B) void (C) null (D) None of the above
-# Ans (D)
+# Ans (B)
 
 17 Which keyword is used to call a function in C?
 (A) call (B) invoke (C) return (D) None of the above
